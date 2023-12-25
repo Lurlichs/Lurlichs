@@ -6,7 +6,6 @@ Ever since diving down the game dev rabbit hole I've been hooked, from my early 
 
 All of my public projects can be played over on [**_itch_**](https://lurlichs.itch.io/)
 
-![From Left to Right: Rootman, King of Ping Pong & Mechamode](https://github.com/Lurlichs/Lurlichs/assets/79181595/4c7e8181-1197-4827-97e4-f0b123fe92b6)
 
 ### 🕹 Contents
 
