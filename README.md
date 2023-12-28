@@ -4,7 +4,7 @@ I'm Logan, a Melbourne based game developer whose been working on games for 3 ye
 
 Ever since diving down the game dev rabbit hole I've been hooked, from my early days at uni learning the very basics to smashing out game jams it's been an absolute blast. My skillset allows me to take flex role when working with a team, some of the roles I've undertaken include: Programmer, Game Design, Technical Art, Level Design, UI art and more. I'm able to adapt and fill whatever role the team needs!
 
-All of my public projects can be played over on [**_itch_**](https://lurlichs.itch.io/)
+Most of my public projects can be played over on [**_itch_**](https://lurlichs.itch.io/)
 
 
 ### 🕹 Contents
