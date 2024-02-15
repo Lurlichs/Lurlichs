@@ -1,6 +1,6 @@
 ### 📍 About Me
 
-I'm Logan, a Melbourne based game developer whose been working on games for 3 years and counting!
+I'm Logan, a Melbourne based game developer whose been working on games for 4 years and counting!
 
 Ever since diving down the game dev rabbit hole I've been hooked, from my early days at uni learning the very basics to smashing out game jams it's been an absolute blast. My skillset allows me to take flex role when working with a team, some of the roles I've undertaken include: Programmer, Game Design, Technical Art, Level Design, UI art and more. I'm able to adapt and fill whatever role the team needs!
 
